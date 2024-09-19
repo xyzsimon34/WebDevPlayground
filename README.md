@@ -3,7 +3,7 @@
 This is a repository for practicing web development with various personal projects aimed at improving my technical skills.
 
 ## Project List
-
+<!--
 - **Project 1: Basic Static Page**
   - Description: A simple HTML/CSS project for showcasing a static page with responsive design.
 
@@ -12,6 +12,7 @@ This is a repository for practicing web development with various personal projec
 
 - **Project 3: Animation Effects Showcase**
   - Description: A project demonstrating various animation effects using CSS and JavaScript.
+-->
 
 ## Tech Stack
 
